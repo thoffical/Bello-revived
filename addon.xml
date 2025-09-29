@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="skin.bello" version="3.0.8" name="Bello" provider-name="Nessus">
   <requires>
-		<import addon="xbmc.gui" version="5.13.0"/>
+		<import addon="xbmc.gui" version="5.17.0"/>
 		<import addon="service.skin.widgets" version="0.0.37"/>
 		<import addon="script.tvtunes" version="3.0.6"/>
 		<import addon="script.tv.show.next.aired" version="6.0.10"/>
 		<import addon="script.artwork.downloader" version="12.0.24"/>
 		<import addon="script.globalsearch" version="2.0.8"/>
-		<import addon="script.artistslideshow" version="1.6.5"/>
+		<import addon="script.artistslideshow" version="3.3.8"/>
 		<import addon="script.playalbum" version="1.0.1"/>
 		<import addon="script.extendedinfo" version="6.0.9"/>
 		<import addon="script.grab.fanart" version="0.12.8"/>
